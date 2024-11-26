@@ -1,5 +1,5 @@
-langchain==0.3.6
-langchain-experimental==0.3.2
+langchain
+langchain-experimental
 langchainhub
 langchain-community
 langchain-text-splitters
@@ -20,3 +20,4 @@ qrcode
 streamlit
 pandas
 tabulate
+matplotlib
